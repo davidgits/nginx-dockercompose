@@ -1,0 +1,10 @@
+#title
+PROYECTO NGINX Y DOCKER COMPOSE
+#modulO
+DESPLIEGUE DE APLICACIONES WEB
+#ciclo
+2º DESARROLLO DE APLICACIONES WEB
+ies ruiz gijón Utrera - Sevilla
+#author
+@KIKEON
+
